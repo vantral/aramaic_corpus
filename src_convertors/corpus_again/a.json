@@ -1,0 +1,136 @@
+{
+  "meta": {"filename": "corpus/III.01.txt", 
+            "title": "Maalula: 001. M_ḤF Wie man Traubenhonig herstellt.txt", 
+            "village": "Maalula", 
+            "narrative_subject": "Activities at home and in the village"},
+  "sentences": [
+    {"text": "001. ana ḥabīb fransīs m-maʕlūla,",
+    "words": [
+              {"wf": "001.", "wtype": "punct", "off_start": 0, "off_end": 4, "next_word": 1},
+              {"wf": "ana", "wtype": "word", "off_start": 5, "off_end": 8, "next_word": 2, "sentence_index": 0, "sentence_index_neg": 5, "ana": [{"lex": "ana", "gr.pos": "PRON", "gr.number": "Sg", "gr.person": "1"}]}, 
+              {"wf": "ḥabīb", "wtype": "word", "off_start": 9, "off_end": 14, "next_word": 3, "sentence_index": 1, "sentence_index_neg": 4, "ana": [{"lex": "ḥabīb", "gr.pos": "PROPN", "gr.number": "Sg", "gr.noun_form": "Free", "gr.proper_type": "PER"}]},
+              {"wf": "fransīs", "wtype": "word", "off_start": 15, "off_end": 22, "next_word": 4, "sentence_index": 2, "sentence_index_neg": 3, "ana": [{"lex": "fransīs", "gr.pos": "PROPN", "gr.number": "Sg", "gr.noun_form": "Free", "gr.proper_type": "PER"}]},
+              {"wf": "m", "wtype": "word", "off_start": 23, "off_end": 24, "next_word": 5, "sentence_index": 3, "sentence_index_neg": 2, "ana": [{"lex": "m", "gr.pos": "PREP"}, {"lex": "b", "gr.pos": "PREP"}]},
+              {"wf": "-", "wtype": "punct", "off_start": 24, "off_end": 25, "next_word": 6, "sentence_index": 4},
+              {"wf": "maʕlūla", "wtype": "word", "off_start": 25, "off_end": 32, "next_word": 7, "sentence_index": 5, "sentence_index_neg": 1, "ana": [{"lex": "maʕlūla", "gr.pos": "PROPN", "gr.number": "Sg", "gr.noun_form": "Free", "gr.proper_type": "PLACE"}]},
+              {"wf": ",", "wtype": "punct", "off_start": 32, "off_end": 33, "next_word": 8}
+             ],
+    "lang": 0,
+    "meta": {
+              "speaker": "Ḥabīb Fransīs",
+              "gender": "M",
+              "year": "26",
+              "profession": "Trader, farmer"
+            },
+    "para_alignment": [
+                  {
+                    "off_start": 0,
+                    "off_end": 33,
+                    "para_id": 616
+                  }
+                ],
+    "src_alignment": [
+                  {
+                    "off_start_src": 0.57,
+                    "off_end_src": 9.77,
+                    "off_start_sent": 0,
+                    "off_end_sent": 28,
+                    "mtype": "audio",
+                    "src_id": "50_1000",
+                    "src": "III.01.mp3"
+                  }
+                ]
+    },
+    {"text": "002. bann naḥək ex mišwill pšōṯa w ex mišwill tepsa.",
+    "words": [
+              {"wf": "002.", "wtype": "punct", "off_start": 0, "off_end": 4, "next_word": 1},
+              {"wf": "bann", "wtype": "word", "off_start": 5, "off_end": 9, "next_word": 2, "sentence_index": 0, "sentence_index_neg": 9, "ana": [{"lex": "batte", "gr.pos": "AUX", "gr.number": "Sg", "gr.person": "1", "gr.gender": "c"}]}, 
+              {"wf": "naḥək", "wtype": "word", "off_start": 10, "off_end": 15, "next_word": 3, "sentence_index": 1, "sentence_index_neg": 8, "ana": [{"lex": "-"}]},
+              {"wf": "ex", "wtype": "word", "off_start": 16, "off_end": 18, "next_word": 4, "sentence_index": 2, "sentence_index_neg": 7, "ana": [{"lex": "ex", "gr.pos": "ADV", "gr.adv_type": "Mod"}]},
+              {"wf": "mišwill", "wtype": "word", "off_start": 19, "off_end": 26, "next_word": 5, "sentence_index": 3, "sentence_index_neg": 6, "ana": [{"lex": "-"}]},
+              {"wf": "pšōṯa", "wtype": "word", "off_start": 27, "off_end": 32, "next_word": 6, "sentence_index": 4, "sentence_index_neg": 5, "ana": [{"lex": "ebəšṯa", "gr.pos": "NOUN", "gr.number": "Sg", "gr.noun_form": "Free"}]},
+              {"wf": "w", "wtype": "word", "off_start": 33, "off_end": 34, "next_word": 7, "sentence_index": 5, "sentence_index_neg": 4, "ana": [{"lex": "w", "gr.pos": "CONJ"}]},
+              {"wf": "ex", "wtype": "word", "off_start": 35, "off_end": 37, "next_word": 8, "sentence_index": 6, "sentence_index_neg": 3, "ana": [{"lex": "ex", "gr.pos": "ADV", "gr.adv_type": "Mod"}]},
+              {"wf": "mišwill", "wtype": "word", "off_start": 38, "off_end": 45, "next_word": 9, "sentence_index": 7, "sentence_index_neg": 2, "ana": [{"lex": "-"}]},
+              {"wf": "tepsa", "wtype": "word", "off_start": 46, "off_end": 51, "next_word": 10, "sentence_index": 8, "sentence_index_neg": 1, "ana": [{"lex": "tepsa", "gr.pos": "NOUN", "gr.number": "Sg", "gr.noun_form": "Free"}]},
+              {"wf": ".", "wtype": "punct", "off_start": 51, "off_end": 52, "next_word": 11}
+             ],
+    "lang": 0,
+    "meta": {
+              "speaker": "Ḥabīb Fransīs",
+              "gender": "M",
+              "year": "26",
+              "profession": "Trader, farmer"
+            },
+    "para_alignment": [
+                  {
+                    "off_start": 0,
+                    "off_end": 52,
+                    "para_id": 720
+                  }
+                ],
+    "src_alignment": [
+                  {
+                    "off_start_src": 9.77,
+                    "off_end_src": 15.31,
+                    "off_start_sent": 0,
+                    "off_end_sent": 52,
+                    "mtype": "audio",
+                    "src_id": "50_1100",
+                    "src": "III.01.mp3"
+                  }
+                ],
+    "last": true
+    },
+    {"text": "001. Ich bin Ḥabīb Fransīs aus Maʕlūla,",
+      "words": [
+                {"wf": "001.", "wtype": "punct", "off_start": 0, "off_end": 4, "next_word": 1},
+                {"wf": "Ich", "wtype": "word", "off_start": 5, "off_end": 8, "next_word": 2, "sentence_index": 0, "sentence_index_neg": 6},
+                {"wf": "bin", "wtype": "word", "off_start": 9, "off_end": 12, "next_word": 3, "sentence_index": 1, "sentence_index_neg": 5},
+                {"wf": "Ḥabīb", "wtype": "word", "off_start": 13, "off_end": 18, "next_word": 4, "sentence_index": 2, "sentence_index_neg": 4},
+                {"wf": "Fransīs", "wtype": "word", "off_start": 19, "off_end": 26, "next_word": 5, "sentence_index": 3, "sentence_index_neg": 3},
+                {"wf": "aus", "wtype": "word", "off_start": 27, "off_end": 30, "next_word": 6, "sentence_index": 4, "sentence_index_neg": 2},
+                {"wf": "Maʕlūla", "wtype": "word", "off_start": 31, "off_end": 38, "next_word": 7, "sentence_index": 5, "sentence_index_neg": 1},
+                {"wf": ",", "wtype": "punct", "off_start": 38, "off_end": 39, "next_word": 8}
+               ],
+      "lang": 1,
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 39,
+          "para_id": 616
+        }
+      ]    
+    },
+    {"text": "002. und will erzählen, wie man Rosinen macht und wie man (daraus) Traubenhonig macht.",
+    "words": [
+              {"wf": "002.", "wtype": "punct", "off_start": 0, "off_end": 4, "next_word": 1},
+              {"wf": "und", "wtype": "word", "off_start": 5, "off_end": 8, "next_word": 2, "sentence_index": 0, "sentence_index_neg": 13},
+              {"wf": "will", "wtype": "word", "off_start": 9, "off_end": 13, "next_word": 3, "sentence_index": 1, "sentence_index_neg": 12},
+              {"wf": "erzählen", "wtype": "word", "off_start": 14, "off_end": 22, "next_word": 4, "sentence_index": 2, "sentence_index_neg": 11},
+              {"wf": ",", "wtype": "punct", "off_start": 22, "off_end": 23, "next_word": 5, "sentence_index": 3},
+              {"wf": "wie", "wtype": "word", "off_start": 24, "off_end": 27, "next_word": 6, "sentence_index": 4, "sentence_index_neg": 10},
+              {"wf": "man", "wtype": "word", "off_start": 30, "off_end": 33, "next_word": 7, "sentence_index": 5, "sentence_index_neg": 9},
+              {"wf": "Rosinen", "wtype": "word", "off_start": 34, "off_end": 41, "next_word": 8, "sentence_index": 6, "sentence_index_neg": 8},
+              {"wf": "macht", "wtype": "word", "off_start": 42, "off_end": 47, "next_word": 9, "sentence_index": 7, "sentence_index_neg": 7},
+              {"wf": "und", "wtype": "word", "off_start": 48, "off_end": 51, "next_word": 10, "sentence_index": 8, "sentence_index_neg": 6},
+              {"wf": "wie", "wtype": "word", "off_start": 52, "off_end": 55, "next_word": 11, "sentence_index": 9, "sentence_index_neg": 5},
+              {"wf": "man", "wtype": "word", "off_start": 56, "off_end": 59, "next_word": 12, "sentence_index": 10, "sentence_index_neg": 4},
+              {"wf": "(", "wtype": "punct", "off_start": 60, "off_end": 61, "next_word": 13, "sentence_index": 11},
+              {"wf": "daraus", "wtype": "word", "off_start": 61, "off_end": 67, "next_word": 14, "sentence_index": 12, "sentence_index_neg": 3},
+              {"wf": ")", "wtype": "punct", "off_start": 67, "off_end": 68, "next_word": 15, "sentence_index": 13},
+              {"wf": "Traubenhonig", "wtype": "word", "off_start": 69, "off_end": 81, "next_word": 16, "sentence_index": 14, "sentence_index_neg": 2},
+              {"wf": "macht", "wtype": "word", "off_start": 82, "off_end": 87, "next_word": 17, "sentence_index": 15, "sentence_index_neg": 1},
+              {"wf": ".", "wtype": "punct", "off_start": 87, "off_end": 88, "next_word": 18}
+              ],
+    "lang": 1,
+    "para_alignment": [
+      {
+        "off_start": 0,
+        "off_end": 88,
+        "para_id": 720
+      }
+    ] 
+    }
+  ]
+}
